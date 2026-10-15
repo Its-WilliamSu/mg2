@@ -9186,7 +9186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b66b2edd612d3495ca0f5b082fb421f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spell
-  _life: 0.5
+  _life: 1
   _collider: {fileID: 1042197854}
 --- !u!1 &1048837927
 GameObject:
